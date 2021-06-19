@@ -1,0 +1,16 @@
+.testNames {
+    padding: 20px 40px;
+    font-size: 25px;
+}
+
+.testNames:first-child {
+    margin-top: 50px;
+}
+
+.testNames .testNames-obj {
+    padding-left: 10px;
+}
+
+.testNames span {
+    color: rgb(55, 55, 117);
+}
